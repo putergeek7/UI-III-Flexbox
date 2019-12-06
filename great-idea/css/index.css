@@ -134,13 +134,12 @@ body {
 
 
 
-
-
 /* PARENT */
 .tagline-container {
 	display: flex;
 	flex-direction: row;
 	align-content: flex-end;
+	width: 100%;
 }
 
 /* CHILD  1*/
